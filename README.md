@@ -8,3 +8,5 @@ determinant to check for inverse if it is positive, then we inverse our result a
 # Arrays.hashCode(getHashed)*(hashValue+(int)deter) 
 # Finally ,we obtain the hashed value.
 
+# The program is using the JAMA librarie you can download it using this link http://math.nist.gov/javanumerics/jama/#Background
+ 
